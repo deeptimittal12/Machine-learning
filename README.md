@@ -1,4 +1,4 @@
-# R-Programming
+# Machine-learning 
 
 
-This repo contains R code and assignments. 
+This repo contains code, programming assignments, tutorials for machine learning course. 
